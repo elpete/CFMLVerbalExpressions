@@ -1,9 +1,6 @@
 # CFMLVerbalExpressions
 
-| Branch      | Status                                                                                                                     |
-|-------------|----------------------------------------------------------------------------------------------------------------------------|
-| master      | ![travis master status](https://img.shields.io/travis/elpete/CFMLVerbalExpressions/master.svg?style=flat-square)           |
-| development | ![travis development status](https://img.shields.io/travis/elpete/CFMLVerbalExpressions/development.svg?style=flat-square) |
+![travis master status](https://img.shields.io/travis/elpete/CFMLVerbalExpressions/master.svg?style=flat-square&label=master) ![travis development status](https://img.shields.io/travis/elpete/CFMLVerbalExpressions/development.svg?style=flat-square&label=development)
 
 * Ported from [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions)
 
