@@ -1,5 +1,8 @@
 # CFMLVerbalExpressions
 
+master: ![travis master status](https://img.shields.io/travis/elpete/CFMLVerbalExpressions/master.svg)
+development: ![travis development status](https://img.shields.io/travis/elpete/CFMLVerbalExpressions/development.svg)
+
 * Ported from [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions)
 
 CFMLVerbalExpressions is a CFML library that helps to construct hard regular expressions;
