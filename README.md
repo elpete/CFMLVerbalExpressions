@@ -4,7 +4,7 @@
 
 CFMLVerbalExpressions is a CFML library that helps to construct hard regular expressions;
 
-```cfscript
+```js
 var regex = new VerbalExpression();
 
 regex.startOfLine()
