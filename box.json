@@ -1,0 +1,39 @@
+{
+    "name": "VerbalExpressions",
+    "version": "1.0.0",
+    "author": "Eric Peterson",
+    "homepage": "https: //github.com/elpete/CFMLVerbalExpressions",
+    "documentation": "https: //github.com/elpete/CFMLVerbalExpressions",
+    "repository": {
+        "type": "git",
+        "URL": "https: //github.com/elpete/CFMLVerbalExpressions"
+    },
+    "bugs": "https: //github.com/elpete/CFMLVerbalExpressions/issues",
+    "slug": "VerbalExpressions",
+    "shortDescription": "Verbal Expressions port to CFML",
+    "description": "Verbal Expressions port to CFML",
+    "type": "modules",
+    "keywords": [
+        "regex",
+        "fluent"
+    ],
+    "private": false,
+    "projectURL": "https: //github.com/elpete/CFMLVerbalExpressions",
+    "license": [
+        {
+            "type": "MIT",
+            "URL": "https: //github.com/elpete/CFMLVerbalExpressions/blob/master/LICENSE"
+        }
+    ],
+    "ignore": [
+        "**/.*",
+        "test",
+        "tests"
+    ],
+    "devDependencies": {
+        "testbox": "2.2.0"
+    },
+    "installPaths": {
+        "testbox": "testbox"
+    }
+}
