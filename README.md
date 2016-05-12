@@ -4,7 +4,7 @@
 
 * Ported from [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions)
 
-CFMLVerbalExpressions is a CFML library that helps to construct hard regular expressions;
+CFMLVerbalExpressions is a Lucee library that helps to construct hard regular expressions;
 
 ```cfc
 var regex = new VerbalExpression();
@@ -33,6 +33,8 @@ if (REFindNoCase(regex.toRegex(), 'https://github.com/') > 0) {
 ## Other Implementations
 
 You can see other ports on [VerbalExpressions.github.io](http://verbalexpressions.github.io/).
+
+**NOTE:** This implementation does **not** support Adobe ColdFusion.  This is because Adobe ColdFusion does not allow overwriting reserved words such as `and` or `equals` as function names.
 
 ## Installation
 
