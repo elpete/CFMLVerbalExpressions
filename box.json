@@ -31,7 +31,7 @@
         "tests"
     ],
     "devDependencies":{
-        "testbox":"2.2.0"
+        "testbox":"2.3.0"
     },
     "installPaths":{
         "testbox":"testbox"
