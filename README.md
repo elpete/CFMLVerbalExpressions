@@ -1,6 +1,6 @@
 # CFMLVerbalExpressions
 
-![travis master status](https://img.shields.io/travis/elpete/CFMLVerbalExpressions/master.svg?style=flat-square&label=master) ![travis development status](https://img.shields.io/travis/elpete/CFMLVerbalExpressions/development.svg?style=flat-square&label=development)
+[![Build Status - Master](https://travis-ci.org/elpete/CFMLVerbalExpressions.svg?branch=master)](https://travis-ci.org/elpete/CFMLVerbalExpressions) [![Build Status - Development](https://travis-ci.org/elpete/CFMLVerbalExpressions.svg?branch=development)](https://travis-ci.org/elpete/CFMLVerbalExpressions)
 
 * Ported from [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions)
 
